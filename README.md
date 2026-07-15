@@ -18,7 +18,7 @@ I build civic tech, consumer apps, and tools I needed and couldn't find. The thr
  
 ## Day job
  
-Data Manager at the **Human Rights Campaign**. Every direct response pull runs through me: direct mail, digital and SMS, telemarketing, and events. Audience selection, suppression logic, and quality control across tens of millions of constituent records, working in ROI Solutions (Redshift), VAN, Civis, and TargetSmart. I also lead how the team adopts AI and approaches data governance. My working position: the integration layer beats the prompt.
+Data Manager at the **Human Rights Campaign**. Every direct response pull runs through me: direct mail, digital and SMS, telemarketing, and events. Audience selection, suppression logic, and quality control across tens of millions of constituent records, working in ROI Solutions, VAN, Civis (Redshift), and TargetSmart. I also lead how the team adopts AI and approaches data governance. My working position: the integration layer beats the prompt.
  
 Self-taught SQL. Production-level now.
  
