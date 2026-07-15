@@ -47,4 +47,4 @@ Work at the intersection of data systems, AI governance, and technical program m
  
 ## Find me
  
-[civicradar.co](https://civicradar.co) · [euphora.app](https://euphora.app) · hello@sajchandoo.com · Washington, D.C.
+hello@sajchandoo.com
