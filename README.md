@@ -32,7 +32,7 @@ A taste portrait for movies, TV, games, and books, built from your own ratings a
 - **[Yesteryear](https://github.com/saj-sudo/yesteryear)** ([yesteryear.dev](https://yesteryear.dev)) brings older Capacities notes back on a cadence, with no streaks and no guilt, and keeps its history inside your own space rather than on a server.
 - **[Livability map](https://github.com/saj-sudo/livability-map)**, above.
 
-Farview and Yesteryear read your space's actual schema instead of hardcoding one, so they work on spaces they have never seen, and their builds fail on any accessibility violation in light or dark, on a phone or a desktop.
+Farview and Yesteryear read your space's actual schema instead of hardcoding one, so they work on spaces they have never seen, and their builds fail on any accessibility violation in light or dark, on a phone or a desktop. Both are MIT licensed.
 
 ---
 
@@ -66,4 +66,4 @@ Work at the intersection of data systems, AI governance, and technical program m
 
 ## Contact me
 
-[sajchandoo.com](https://sajchandoo.com) · hello@sajchandoo.com
+[sajchandoo.com](https://sajchandoo.com) · [wander the map](https://sajchandoo.com/play) · hello@sajchandoo.com
